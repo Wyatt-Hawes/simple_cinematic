@@ -8,7 +8,7 @@ class Intro extends Phaser.Scene{
     preload(){
         this.load.path = './assets/';
         this.load.image('mountain', 'mountain.png');
-        this.load.image('boarder', 'snowboarder.png');
+        this.load.image('boarder', 'Snowboarder.png');
 
     }
 
